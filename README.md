@@ -40,5 +40,3 @@ Collection Framework – using ArrayList, HashMap, and LinkedList for data stora
 Generics – writing flexible and reusable code using generic methods.
 
 JavaFX (GUI Development) – creating user interfaces with forms, text, and graphical components.
-
-All programs are written in a simple, clean, and easy-to-understand format for learning, practice, and exam preparation.
